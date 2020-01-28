@@ -28,6 +28,7 @@ end
 
 def retrieve_element_from_index(array,integer)
   retrieve_element_from_index = ["wow","I", "am", "really","learning", "arrays!"]
+  retrieve_element_from_index(2)
 end
 
 def retrieve_last_element_from_array(array)
