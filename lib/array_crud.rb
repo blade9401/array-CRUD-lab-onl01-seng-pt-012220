@@ -26,7 +26,7 @@ def add_element_to_end_of_array(array,element)
   add_element_to_end_of_array << "arrays!"
 end
 
-def retrieve_element_from_index(array)
+def retrieve_element_from_index(array,element)
   retrieve_element_from_index = ["wow","I", "am", "really","learning", "arrays!"]
   retrieve_element_from_index[2]
 end
