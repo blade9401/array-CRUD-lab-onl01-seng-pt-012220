@@ -35,3 +35,8 @@ def retrieve_last_element_from_array(array)
   retrieve_last_element_from_array = ["arrays!"]
   retrieve_last_element_from_array.last
 end
+
+def retrieve_first_element_of_array(array)
+  retrieve_first_element_of_array = ["wow"]
+  retrieve_first_element_of_array.first
+end
