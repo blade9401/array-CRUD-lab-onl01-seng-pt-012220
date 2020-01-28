@@ -31,4 +31,7 @@ def retrieve_element_from_index(array,2)
   retrieve_element_from_index.index(2)
 end
 
-def retrieve_last element_from_array()
+def retrieve_last_element_from_array(array)
+  retrieve_last_element_from_array = ["arrays!"]
+  
+end
