@@ -28,6 +28,6 @@ end
 
 def retrieve_element_from_index(array,2)
   retrieve_element_from_index = ["well","I", "am"]
-  retrieve_element_from_index.index(1)
+  retrieve_element_from_index.index()
 end
 
