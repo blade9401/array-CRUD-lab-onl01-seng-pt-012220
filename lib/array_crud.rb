@@ -30,8 +30,6 @@ def retrieve_element_from_index(array,integer)
   retrieve_element_from_index = ["wow","I", "am", "really","learning", "arrays!"]
 end
 
-retrieve_last_element_from_index.index(2)
-
 def retrieve_last_element_from_array(array)
   retrieve_last_element_from_array = ["arrays!"]
   retrieve_last_element_from_array.last
