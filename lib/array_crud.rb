@@ -3,11 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  create_an_array = ["array", "this", "that", "or"]
+  create_an_array = ["wow", "I", "am", "really"]
 end
 
 def add_element_to_end_of_array(array)
-  add_element_to_end_of_array = ["Array"]
+  add_element_to_end_of_array = ["wow","I","am", "really", "learning"]
+  add_element_to_end_of_array = ""
 end
 
 def add_element_to_start_of_array(array,element)
