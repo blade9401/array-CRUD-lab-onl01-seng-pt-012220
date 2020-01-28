@@ -21,7 +21,7 @@ def remove_element_from_start_of_array(array)
   remove_element_from_start_of_array.shift 
 end
 
-def add_element_to_end_of_array
+def add_element_to_end_of_array(array)
 end
 
 def retrieve_element_from_index(array,integer)
