@@ -23,7 +23,7 @@ end
 
 def add_element_to_end_of_array(array,element)
   add_element_to_end_of_array =[]
-  add_element_to_end_of_array.last("arrays!")
+  add_element_to_end_of_array << "arrays!"
 end
 
 def retrieve_element_from_index(array,integer)
